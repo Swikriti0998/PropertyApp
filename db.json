@@ -1,0 +1,32 @@
+{
+    "users": [
+        {
+            "id": "1",
+            "firstName": "Saleena",
+            "lastName": "Khan",
+            "email": "saleenakhan134@gmail.com",
+            "companyId": "1"
+        },
+        {
+            "id": "2",
+            "firstName": "Manisha",
+            "lastName": "Upadhyay",
+            "email": "mupadhyay22@gmail.com",
+            "companyId": "2"
+        }
+],
+    "contacts": [
+        {
+            "name": "Saleena Khan",
+            "country": "India",
+            "phone": "1234567890",
+            "id": "1"
+        },
+        {
+            "name": "Manisha Upadhyay",
+            "country": "India",
+            "phone": "1234567891",
+            "id": "2"
+        }
+]
+}

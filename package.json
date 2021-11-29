@@ -1,0 +1,22 @@
+{
+  "name": "backendnewpropertyapp",
+  "version": "1.0.0",
+  "description": "Real Estate Application",
+  "main": "index.js",
+  "scripts": {
+    "json:server": "json-server --watch db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Swikriti0998/PropertyApp.git"
+  },
+  "author": "Swikriti Upadhyay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Swikriti0998/PropertyApp/issues"
+  },
+  "homepage": "https://github.com/Swikriti0998/PropertyApp#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
